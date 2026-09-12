@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет, я Алексей 👋
 
-<!--
-**keepers-of-the-night/keepers-of-the-night** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 О себе
+Java-разработчик с университетским бэкграундом в области IT. Дополнительно владею C++ и знаком с синтаксисом C#.  
+Читаю техническую документацию и спецификации на английском.  
+В проектах уделяю внимание тестированию, читаемости кода и документированию, работаю с open-source библиотеками и адаптирую их под задачи.  
+Уверенно работаю в команде, быстро осваиваю новые инструменты. Развиваюсь в направлении серверной разработки на Java: Spring Boot, REST API, работа с базами данных.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек
+*   **Языки:** Java (17+, Collections Framework, Stream API)
+*   **Сетевое программирование:** сокеты, TCP/IP, опыт разработки клиент-серверных приложений
+*   **Базы данных:** MySQL, PostgreSQL
+*   **Инструменты:** Git, CMake, Linux (Ubuntu)
+*   **Дополнительно:** владею C++, знаком с C#
+*   **Английский:** чтение технической документации (RFC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои лучшие проекты
+
+### |--> Архиватор с реализацией алгоритма сжатия Хаффмана на C++17 с поддержкой кодирования и декодирования.
+*   **Стек:** C++
+*   **Репозиторий:** [github.com/keepers-of-the-night/SampleWindowOfConductor](https://github.com/keepers-of-the-night/Archiver)
+
+### |--> Многопользовательский консольный чат на C++17 с использованием Winsock2 и многопоточности.
+*   **Стек:** C++
+*   **Репозиторий:** [github.com/keepers-of-the-night/Chat](https://github.com/keepers-of-the-night/Chat)
+
+### |--> Http-сервер на C++17 с использованием библиотек: Crow, ASIO, jwt-cpp, OpenSSL, Swagger UI.
+*   **Стек:** C++
+*   **Репозиторий:** [github.com/keepers-of-the-night/Crow-server](https://github.com/keepers-of-the-night/Crow-server)
+
+## 📬 Контакты
+*   Почта: [alescha03@yandex.ru](mailto:alescha03@yandex.ru)
