@@ -20,15 +20,15 @@ Java-разработчик с университетским бэкграунд
 
 ### |--> Архиватор с реализацией алгоритма сжатия Хаффмана на C++17 с поддержкой кодирования и декодирования.
 *   **Стек:** C++
-*   **Репозиторий:** [github.com/keepers-of-the-night/SampleWindowOfConductor](https://github.com/keepers-of-the-night/Archiver)
+*   **Репозиторий:** [github.com/AlexeyKlimanov/Archiver](https://github.com/AlexeyKlimanov/Archiver)
 
 ### |--> Многопользовательский консольный чат на C++17 с использованием Winsock2 и многопоточности.
 *   **Стек:** C++
-*   **Репозиторий:** [github.com/keepers-of-the-night/Chat](https://github.com/keepers-of-the-night/Chat)
+*   **Репозиторий:** [github.com/AlexeyKlimanov/Chat](https://github.com/AlexeyKlimanov/Chat)
 
 ### |--> Http-сервер на C++17 с использованием библиотек: Crow, ASIO, jwt-cpp, OpenSSL, Swagger UI.
 *   **Стек:** C++
-*   **Репозиторий:** [github.com/keepers-of-the-night/Crow-server](https://github.com/keepers-of-the-night/Crow-server)
+*   **Репозиторий:** [github.com/AlexeyKlimanov/Crow-server](https://github.com/AlexeyKlimanov/Crow-server)
 
 ## 📬 Контакты
 *   Почта: [alescha03@yandex.ru](mailto:alescha03@yandex.ru)
