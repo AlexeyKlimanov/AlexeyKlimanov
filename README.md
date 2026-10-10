@@ -7,24 +7,26 @@ Java-разработчик с университетским бэкграунд
 Уверенно работаю в команде, быстро осваиваю новые инструменты. Развиваюсь в направлении серверной разработки на Java: Spring Boot, REST API, работа с базами данных.
 
 ## 🛠️ Мой стек
-*   **Языки:** Java (17+, Collections, Stream API, многопоточность: ExecutorService, виртуальные потоки)
-*   **Сетевое программирование:** сокеты, TCP/IP, опыт разработки клиент-серверных приложений
-*   **Базы данных:** MySQL, PostgreSQL
-*   **Инструменты:** Git, CMake, Linux (Ubuntu)
+*   **Языки:** Java 21 (Collections, Stream API, многопоточность)
+*   **Базы данных:** PostgreSQL
+*   **Инструменты:** Git, Linux
 *   **Дополнительно:** владею C++, знаком с C#
-*   **Опыт:** JMH-бенчмарк: сравнивал производительность последовательного подсчёта слов,
+*   **Опыт:**
+    * JMH-бенчмарк: сравнивал производительность последовательного подсчёта слов,
   ExecutorService, parallelStream и виртуальных потоков (Java 21+)
+    * Реализовал REST API для сокращения ссылок с JWT-аутентификацией, 
+    миграциями Flyway и атомарным счётчиком кликов
 *   **Английский:** чтение технической документации (RFC)
 
 ## 🚀 Мои лучшие проекты
 
+### |--> URL Shortener — REST API на Spring Boot с JWT.
+*   **Стек:** Java 21, Spring Boot, PostgreSQL, Flyway, JUnit 5, Mockito
+*   **Репозиторий:** [github.com/AlexeyKlimanov/url-shortener](https://github.com/AlexeyKlimanov/url-shortener)
+
 ### |--> Архиватор с реализацией алгоритма сжатия Хаффмана на C++17 с поддержкой кодирования и декодирования.
 *   **Стек:** C++
 *   **Репозиторий:** [github.com/AlexeyKlimanov/Archiver](https://github.com/AlexeyKlimanov/Archiver)
-
-### |--> Многопользовательский консольный чат на C++17 с использованием Winsock2 и многопоточности.
-*   **Стек:** C++
-*   **Репозиторий:** [github.com/AlexeyKlimanov/Chat](https://github.com/AlexeyKlimanov/Chat)
 
 ### |--> Http-сервер на C++17 с использованием библиотек: Crow, ASIO, jwt-cpp, OpenSSL, Swagger UI.
 *   **Стек:** C++
